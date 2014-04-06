@@ -23,8 +23,8 @@ fi
 
 # Please define your own values for those variables
 IPSEC_PSK=very_unsecure_key
-VPN_USER=johndoe
-VPN_PASSWORD=unsecure
+VPN_USER=maviucak
+VPN_PASSWORD=qwsa1432
 
 # Those two variables will be found automatically
 PRIVATE_IP=`wget -q -O - 'http://instance-data/latest/meta-data/local-ipv4'`
